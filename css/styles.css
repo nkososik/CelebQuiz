@@ -2,6 +2,14 @@
   display: block;
 }
 
+body {
+  background-color: aquamarine;
+}
+
 #celebpick{
   display: none;
+}
+
+.container {
+  background-color: aquamarine;
 }
